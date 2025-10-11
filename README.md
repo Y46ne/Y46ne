@@ -12,9 +12,7 @@
 - 🎓 Étudiant en **2ème année de BUT Informatique** à l’IUT d’Orléans  
 - 💡 Passionné par le **développement logiciel, le jeu vidéo** et les **technos web**  
 - 🧠 J’aime **créer des projets ludiques et techniques**, que ce soit en Python, Java ou Lua  
-- 💬 Langues : **Français (native)**, **Anglais B2/C1 (certifié Cambridge)**, **Arabe**, **Espagnol (notions)**  
-- ⚡ Fun fact : Je code mieux après une bonne séance de muscu 🏋️‍♂️ ou une session de natation 🏊‍♂️  
-
+- 💬 Langues : **Français (native)**, **Anglais B2/C1 (certifié Cambridge)**, **Arabe**, **Espagnol (notions)**
 ---
 
 ### 🛠️ Stack & Outils
@@ -52,15 +50,15 @@
 
 ### 📊 Mes Stats GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassineBelaarous&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YassineBelaarous&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Y46ne&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Y46ne&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
 ### 🐍 Mon serpent des commits
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YassineBelaarous/YassineBelaarous/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Y46ne/Y46ne/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
