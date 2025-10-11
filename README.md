@@ -56,11 +56,9 @@
 
 ---
 
-### 🐍 Mon serpent des commits
+### 🏆 Mes GitHub Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Y46ne/Y46ne/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Y46ne&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
-
-<p align="center">✨ Code. Create. Learn. Repeat. ✨</p>
