@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, moi c'est <strong>Yassine Belaarous</strong></h1>
+<h1 align="center"><strong>Yassine Belaarous</strong></h1>
 <h3 align="center">💻 Étudiant en BUT Informatique à l’IUT d’Orléans | Passionné de Développement & Jeux Vidéo 🎮</h3>
 
 <p align="center">
