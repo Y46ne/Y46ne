@@ -75,7 +75,6 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Weights" width="20" /> Passionné de musculation (hypertrophie) et de nutrition sportive.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Swimming%20Light%20Skin%20Tone.png" alt="Swimming" width="20" /> Ancien nageur de compétition au niveau interrégional (10 ans).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Motorcycle.png" alt="Motorcycle" width="20" /> Intéressé par la moto, avec un œil sur les modèles sportifs (Yamaha R3).
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="20" /> J'aime décortiquer le game design des fast-paced shooters (*ULTRAKILL*, *Straftat*).
 
 ---
